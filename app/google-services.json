@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86849763059",
+    "project_id": "appandroid-ad728",
+    "storage_bucket": "appandroid-ad728.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86849763059:android:8c1ae633b740abf7d7a986",
+        "android_client_info": {
+          "package_name": "com.example.projectchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkwRZlEfYYLxlJ3-KmxyeVlyvo1dM3_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
